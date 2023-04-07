@@ -1,0 +1,12 @@
+{
+  "name": "poc_cypress_api",
+  "version": "1.0.0",
+  "description": "```\r   * Node.js (https://nodejs.org/en/download)\r   * Certifique-se de ter o Node.js instalado: digitando `node -v`\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
